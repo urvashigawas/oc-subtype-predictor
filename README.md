@@ -52,13 +52,7 @@ Rather than relying on a single "silver bullet" gene, the champion model establi
 
 ## ⚙️ Project Structure
 ```text
-├── data/
-│   └── validation_results.csv         # Comprehensive run performance tracking
-├── scripts/
-│   └── tb_4.py                        # Main execution script for PCA/ACO pipeline and auditing
-├── visualizations/
-│   ├── class_distribution_aco.png     # 2D scatter plot visualization mapping HIF3A vs ASS1
-│   └── confusion_matrix.png           # Winning model multi-class confusion matrix
-├── docs/
-│   └── Project_Report.docx            # Detailed translational bioinformatics report
-└── README.md                          # Repository documentation
+├── tb_4.py                # Main execution script for PCA/ACO pipeline and auditing
+├── Figure1.png            # 2D scatter plot visualization mapping & Winning model multi-class confusion matrix
+├── TB_ProjectBIM-2024-3,5&10.docx    # Detailed translational bioinformatics report
+└── README.md              # Repository documentation
